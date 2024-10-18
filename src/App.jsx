@@ -3,9 +3,7 @@ import "./styles.css";
 function App() {
   return (
     <div>
-      <h1 className="text-3xl font-bold underline text-center">
-        Stock Tracker
-      </h1>
+      <h1 className="text-3xl font-bold text-center">Stock Tracker</h1>
       <div className="flex justify-center">
         <div className="w-1/2">
           <table className="table-auto">
